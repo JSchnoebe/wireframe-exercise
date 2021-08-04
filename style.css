@@ -1,0 +1,7 @@
+#secBanner p {
+    float: right;
+    display: block;
+    margin: 20px;
+    width: 20%
+
+}
